@@ -1,0 +1,1 @@
+# vm-template-ssh-fingerprint-key-regen
